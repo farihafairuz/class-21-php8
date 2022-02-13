@@ -28,8 +28,9 @@ class Prime
                 return $this->j= 0;
 
             }
-            return $this->j=1;
+
         }
+        return $this->j=1;
 
     }
 
